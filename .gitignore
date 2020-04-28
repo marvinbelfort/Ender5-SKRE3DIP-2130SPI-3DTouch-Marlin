@@ -1,0 +1,12 @@
+*
+
+!platformio.ini
+!.gitignore
+
+!*/
+
+!Configuration.h
+!Configuration_adv.h
+
+.pio/
+Marlin/bkp/
